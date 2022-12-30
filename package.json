@@ -2,8 +2,10 @@
   "name": "chatgpt-codex-server",
   "version": "1.0.0",
   "description": "",
+  "main": "server.js",
   "type": "module",
   "scripts": {
+    "start": "node server.js",
     "server": "nodemon server"
   },
   "keywords": [],
